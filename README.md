@@ -1,5 +1,3 @@
-## Hi, I'm Lamone 👋
-
 <!--
 **l-armstrong/l-armstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an Software Engineer with a strong interest in backend development, product development, user experience, and art. I love working on emulators, API design, programming at lower levels, and creating great user experience. 
+I'm an Software Engineer with a strong interest in product engineering, user experience, and art. I love working on emulators, API design, programming at lower levels, and creating great user experience. 
 
 Recectly I:
 - Wrapped up a batch at the [Recurse Center](https://www.recurse.com/), where I worked on emulators, assemblers, and collabed on a bittorrent client. 
-- Wrote Backend Software and Internal Tools for [Pixelberry Studios](https://www.pixelberrystudios.com/).
